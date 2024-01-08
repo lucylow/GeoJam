@@ -1,1 +1,1 @@
-# GeoJam
+# GeoJAM
